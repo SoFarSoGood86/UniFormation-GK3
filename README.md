@@ -1,6 +1,6 @@
 ![467966890_590440046831906_4416080388337468927_n](https://github.com/user-attachments/assets/647fde77-b7e6-4a36-bfff-32d722e410f7)
 
-# UniFormation GK3 Integration.
+UniFormation GK3 Integration.
 
 **UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant.
 ##
