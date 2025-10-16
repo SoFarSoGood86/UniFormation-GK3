@@ -2,7 +2,7 @@
 
 # UniFormation GK3 Integration.
 
--
+##
 
 **UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant.
 
@@ -12,7 +12,7 @@
 - Added via graphical interface (config_flow)
 - HACS Compatible
 
--
+##
 
 ## Installation :
 
@@ -26,7 +26,7 @@ Install via HACS
 
    [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://github.com/SoFarSoGood86/UniFormation-GK3.git)
 
--
+##
 
 ## Lovelace card example :
 
