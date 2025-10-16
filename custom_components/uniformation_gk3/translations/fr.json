@@ -1,0 +1,15 @@
+{
+  "title": "UniFormation GK3",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ajouter l’imprimante UniFormation GK3",
+        "description": "Saisissez les paramètres de connexion.",
+        "data": {
+          "name": "Nom",
+          "host": "Adresse IP"
+        }
+      }
+    }
+  }
+}

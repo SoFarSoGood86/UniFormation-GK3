@@ -1,0 +1,13 @@
+{
+  "domain": "uniformation_gk3",
+  "name": "UniFormation GK3",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/homeassistant-UniFormation-GK3",
+  "issue_tracker": "https://github.com/SoFarSoGood86/homeassistant-UniFormation-GK3/issues",
+  "dependencies": [],
+  "codeowners": ["@SoFarSoGood86"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "integration_type": "hub",
+  "config_flow": true
+}
