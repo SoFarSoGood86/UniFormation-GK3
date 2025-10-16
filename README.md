@@ -2,20 +2,21 @@
 
 # UniFormation GK3 Integration.
 
-
+-
 
 **UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant.
 
-## ⚡ Fonctionnalités
-- Température en temps réel
-- État de l’impression (Idle, Printing, Paused)
-- Ajout via interface graphique (config_flow)
-- Compatible HACS
+## Features :
+- Real-time temperature
+- Print status (Idle, Printing, Paused)
+- Added via graphical interface (config_flow)
+- HACS Compatible
 
+-
 
-## Installation
+## Installation :
 
-Install via HACS :
+Install via HACS
 
 1. Navigate to HACS -> Integrations -> "+ Explore & Download Repos" Search for *UniFormation GK3*.
 2. Click on the result and select "Download this Repository with HACS".
@@ -25,16 +26,14 @@ Install via HACS :
 
    [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://github.com/SoFarSoGood86/UniFormation-GK3.git)
 
+-
 
-
-## 🧭 Exemple de carte Lovelace
+## Lovelace card example :
 
 ```yaml
 !include /config/lovelace/example_card.yaml
 ```
 
-## 📸 Icône
+## Icon
 L’icône est disponible dans `custom_components/uniformation_gk3/icons/`.
 
-## 📜 Licence
-MIT
