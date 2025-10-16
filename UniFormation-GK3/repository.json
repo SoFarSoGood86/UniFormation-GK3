@@ -1,0 +1,14 @@
+{
+  "name": "UniFormation GK3",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "FR",
+  "homeassistant": "2024.1.0",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "UniFormation-GK3.zip",
+  "persistent_directory": "custom_components/uniformation_gk3",
+  "iot_class": "local_polling",
+  "integration_type": "hub",
+  "hide_default_branch": false
+}
