@@ -15,18 +15,16 @@
 
 ## Installation
 
-### Option 1: HACS (Home Assistant Community Store)
-
-To install via HACS:
+Install via HACS :
 
 1. Navigate to HACS -> Integrations -> "+ Explore & Download Repos" Search for *UniFormation GK3*.
 2. Click on the result and select "Download this Repository with HACS".
 3. Refresh your browser (due to a known HA bug that may not update the integration list immediately).
 4. Go to "Settings" in the Home Assistant sidebar, then select "Devices and Services".
 5. Click the blue [+ Add Integration] button at the bottom right, search for "UniFormation GK3", and install it.  
+
    [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://github.com/SoFarSoGood86/UniFormation-GK3.git)
 
-      `https://github.com/SoFarSoGood86/UniFormation-GK3.git`
 
 
 ## 🧭 Exemple de carte Lovelace
