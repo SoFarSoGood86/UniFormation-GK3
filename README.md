@@ -1,6 +1,8 @@
-# 🖨️ UniFormation GK3 – Intégration Home Assistant
+![467966890_590440046831906_4416080388337468927_n](https://github.com/user-attachments/assets/52a0435f-4f8f-4a22-a993-ebbb376ff694)
 
-Cette intégration permet de surveiller et de contrôler votre imprimante 3D **UniFormation GK3** directement depuis Home Assistant.
+# UniFormation GK3 Integration.
+
+**UniFormation GK3, GK3 Pro, GK3 Ultra** for **Home Assistant** intégration.
 
 ## ⚡ Fonctionnalités
 - Température en temps réel
