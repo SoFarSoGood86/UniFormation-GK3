@@ -2,7 +2,7 @@
 
 # UniFormation GK3 Integration.
 
-**UniFormation GK3, GK3 Pro, GK3 Ultra** for **Home Assistant** intégration.
+**UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant.
 
 ## ⚡ Fonctionnalités
 - Température en temps réel
