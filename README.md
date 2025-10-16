@@ -2,7 +2,7 @@
 
 # UniFormation GK3 Integration.
 
-[![hacs][hacsbadge]][hacs] [![releasebadge]][release] [![Build Status][buildstatus-shield]][buildstatus-link] [![License][license-shield]](LICENSE.md)
+
 
 **UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant.
 
