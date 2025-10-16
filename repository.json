@@ -1,6 +1,6 @@
 {
   "name": "UniFormation GK3",
-  "content_in_root": true,
+  "content_in_root": false,
   "domains": ["sensor"],
   "country": "FR",
   "homeassistant": "2024.1.0",
