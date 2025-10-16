@@ -12,12 +12,22 @@
 - Ajout via interface graphique (config_flow)
 - Compatible HACS
 
-## 🛠️ Installation
-1. Ajouter le dépôt GitHub dans HACS  
+
+## Installation
+
+### Option 1: HACS (Home Assistant Community Store)
+
+To install via HACS:
+
+1. Navigate to HACS -> Integrations -> "+ Explore & Download Repos".
    `https://github.com/SoFarSoGood86/UniFormation-GK3.git`
-2. Installer l’intégration `UniFormation GK3`
-3. Redémarrer Home Assistant
-4. Aller dans **Paramètres > Appareils & Services > Ajouter une intégration** et sélectionner *UniFormation GK3*.
+2. Search for `UniFormation GK3`.
+3. Click on the result and select "Download this Repository with HACS".
+4. Refresh your browser (due to a known HA bug that may not update the integration list immediately).
+5. Go to "Settings" in the Home Assistant sidebar, then select "Devices and Services".
+6. Click the blue [+ Add Integration] button at the bottom right, search for "UniFormation GK3", and install it.  
+   [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=nodered)
+
 
 ## 🧭 Exemple de carte Lovelace
 
