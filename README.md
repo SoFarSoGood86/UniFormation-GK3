@@ -12,7 +12,7 @@
 
 ## 🛠️ Installation
 1. Ajouter le dépôt GitHub dans HACS  
-   `https://github.com/SoFarSoGood86/homeassistant-UniFormation-GK3`
+   `https://github.com/SoFarSoGood86/UniFormation-GK3.git`
 2. Installer l’intégration `UniFormation GK3`
 3. Redémarrer Home Assistant
 4. Aller dans **Paramètres > Appareils & Services > Ajouter une intégration** et sélectionner *UniFormation GK3*.
