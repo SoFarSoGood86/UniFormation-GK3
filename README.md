@@ -2,7 +2,7 @@
 
 **UniFormation GK3, GK3 Pro, GK3 Ultra** for Home Assistant ntegration.
 ##
-#Features :
+# Features :
 - Real-time temperature
 - Print status (Idle, Printing, Paused)
 - Added via graphical interface (config_flow)
