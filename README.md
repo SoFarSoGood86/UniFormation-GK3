@@ -28,6 +28,5 @@ Install via HACS
 !include /config/lovelace/example_card.yaml
 ```
 ##
-Icon :
-L’icône est disponible dans `custom_components/uniformation_gk3/icons/`.
+
 
